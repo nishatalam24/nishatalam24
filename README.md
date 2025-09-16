@@ -42,46 +42,24 @@ I’m a full-stack developer with **1.5+ years of experience** building real-tim
 
 ## 📌 Top Languages  
 
-<p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=nishatalam24&show_icons=true&locale=en&layout=compact"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=nishatalam24&show_icons=true&locale=en&layout=compact"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishatalam24&show_icons=true&locale=en&layout=compact" width="50%" alt="top-langs" />
-  </picture>
-</p>
----
+
 
 
 
 ## 📈 Contribution Graph  
-
 <p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=nishatalam24&bg_color=ffffff00&color=fdf6e3&area_color=758bA3&line=2aa198&point=6c71c4&area=true&radius=16"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=nishatalam24&bg_color=eee8d5&color=586e75&area_color=657b83&line=2aa198&point=6c71c4&area=true&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishatalam24&bg_color=eee8d5&color=586e75&area_color=657b83&line=2aa198&point=6c71c4&area=true&hide_border=true" width="95%" alt="github-graph" />
-  </picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nishatalam24&theme=react&hide_border=true" height="180" />
 </p>
-
-
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishatalam24&theme=github_dark" />
+</p>
 
 
 ---
 
 ## 📊 GitHub Stats
+
+
 
 <p align="center">
   <span style="display: flex; gap: 10px;">
@@ -109,6 +87,22 @@ I’m a full-stack developer with **1.5+ years of experience** building real-tim
     </picture>
   </span>
 </p>
+
+
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=nishatalam24&show_icons=true&locale=en&layout=compact"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=nishatalam24&show_icons=true&locale=en&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishatalam24&show_icons=true&locale=en&layout=compact" width="50%" alt="top-langs" />
+  </picture>
+</p>
+
 
 ---
 
