@@ -51,8 +51,8 @@ I’m a full-stack developer with **1.5+ years of experience** building real-tim
 
 ## 📫 Connect with Me  
 
-- 💼 [LinkedIn](#)  
-- 🖥️ [GitHub](https://github.com/nishatalam)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nishat-alam-0bb021214/)  
+- 🖥️ [GitHub](https://github.com/nishatalam24)  
 - 📧 nishatalam.it@gmail.com  
 
 ---
